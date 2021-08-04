@@ -18,8 +18,8 @@ Project is created with:
 * JavaScript
 
 ## Screenshots
-![Example screenshot](./img/dwa.JPG)
-![Example screenshot](./img/jeden.JPG)
+![Example screenshot](./img/dwa.jpg)
+![Example screenshot](./img/jeden.jpg)
 
 ## Setup
 You can see this project on-line using link: https://szymonsauer.github.io/search-engine-js/.
