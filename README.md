@@ -1,5 +1,5 @@
 # Search Engine
-This is simple apllication that allows to search the list of drinks.
+This is simple apllication that allows to count down the time to an event. 
 
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -22,7 +22,7 @@ Project is created with:
 ![Example screenshot](./img/jeden.jpg)
 
 ## Setup
-You can see this project on-line using link: https://szymonsauer.github.io/search-engine-js/.
+You can see this project on-line using link: https://szymonsauer.github.io/countdown-app-js/.
 To run this project locally download the code and run in the Visual Studio Code program. 
 
 ## Status
